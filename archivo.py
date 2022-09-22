@@ -32,4 +32,16 @@ while(i<20):
 #FAQ
 for elemento in unalista:
     print(elemento)
-        
+
+def PedirNombre():
+    print("Cual es tu nombre?")
+
+
+PedirNombre()
+PedirNombre()
+PedirNombre()
+PedirNombre()
+PedirNombre()
+PedirNombre()
+PedirNombre()
+PedirNombre()
